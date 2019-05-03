@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. dogs
+2. cats
+3. fish
+   1. red
+   2. blue
